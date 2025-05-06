@@ -1,0 +1,20 @@
+{
+  "name": "lab5_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirrezaSH007/Lab5_Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirrezaSH007/Lab5_Starter/issues"
+  },
+  "homepage": "https://github.com/AmirrezaSH007/Lab5_Starter#readme"
+}
