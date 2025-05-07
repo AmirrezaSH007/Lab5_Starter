@@ -2,6 +2,11 @@
 
 Seyed Amirreza Shams Taleghani
 
+http://127.0.0.1:5500/expose.html
+
+http://127.0.0.1:5500/explore.html
+
+
 ✅ GitHub Actions workflow setup complete
 
 
